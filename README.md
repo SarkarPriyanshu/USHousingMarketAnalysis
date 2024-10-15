@@ -14,7 +14,6 @@ Use the S&P Case-Schiller Home Price Index as a proxy for home prices.
 5. **MSACSR:** Measures the monthly supply of new houses in the US.
 6. **PERMIT:** Tracks the number of new housing units authorized by permits.
 7. **UMCSENT:** Reflects consumer sentiment about the economy.
-8. **MSPUS:** Represents the median sales price of houses sold in the US.
 
 ### Project Scope
 - Analyze the correlation between these factors and CSUSHPISA.
